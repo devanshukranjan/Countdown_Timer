@@ -1,5 +1,6 @@
 # Countdown_Timer
 I have imported tkinter for creating gui and time for counting down time
+I have coded in Python 3 using Jupyter Notebook.
 
 ### Output GUI Window:
 
